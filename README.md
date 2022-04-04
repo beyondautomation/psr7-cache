@@ -13,7 +13,7 @@ It also provides a `Cache-Control` value object to provide an object oriented in
 Install this library using [Composer](https://getcomposer.org/):
 
 ```console
-$ composer require micheh/psr7-cache
+$ composer require beyondautomation/psr7-cache
 ```
 
 ## Quickstart
